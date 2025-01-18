@@ -1,0 +1,124 @@
+2025-01-18 18:03:04.721735: Preliminaries complete. Initiating ETL process
+2025-01-18 18:03:07.682552: Data extraction complete. Initiating Transformation process
+2025-01-18 18:03:07.724556: Data transformation complete. Initiating Loading process
+2025-01-18 18:03:07.728820: Data saved to CSV file
+2025-01-18 18:03:07.750661: Data loaded to Database as a table, Executing queries
+2025-01-18 18:03:07.750661: Process Complete
+2025-01-18 18:03:07.752684: Process Complete
+2025-01-18 18:03:07.755288: Process Complete
+2025-01-18 18:03:51.293321: Preliminaries complete. Initiating ETL process
+2025-01-18 18:03:52.615925: Data extraction complete. Initiating Transformation process
+2025-01-18 18:03:52.650631: Data transformation complete. Initiating Loading process
+2025-01-18 18:03:52.654793: Data saved to CSV file
+2025-01-18 18:03:52.680689: Data loaded to Database as a table, Executing queries
+2025-01-18 18:03:52.680689: Process Complete
+2025-01-18 18:03:52.682933: Process Complete
+2025-01-18 18:03:52.684191: Process Complete
+2025-01-18 18:05:28.147136: Preliminaries complete. Initiating ETL process
+2025-01-18 18:05:29.590295: Data extraction complete. Initiating Transformation process
+2025-01-18 18:05:29.609047: Data transformation complete. Initiating Loading process
+2025-01-18 18:05:29.609047: Data saved to CSV file
+2025-01-18 18:05:29.648796: Data loaded to Database as a table, Executing queries
+2025-01-18 18:05:29.648796: Process Complete
+2025-01-18 18:05:29.650816: Process Complete
+2025-01-18 18:05:29.650816: Process Complete
+2025-01-18 18:06:07.837382: Preliminaries complete. Initiating ETL process
+2025-01-18 18:06:09.301700: Data extraction complete. Initiating Transformation process
+2025-01-18 18:06:09.317780: Data transformation complete. Initiating Loading process
+2025-01-18 18:06:09.333872: Data saved to CSV file
+2025-01-18 18:06:09.365962: Data loaded to Database as a table, Executing queries
+2025-01-18 18:06:09.365962: Process Complete
+2025-01-18 18:06:54.156049: Preliminaries complete. Initiating ETL process
+2025-01-18 18:06:55.826744: Data extraction complete. Initiating Transformation process
+2025-01-18 18:06:55.840888: Data transformation complete. Initiating Loading process
+2025-01-18 18:06:55.852663: Data saved to CSV file
+2025-01-18 18:06:55.880487: Data loaded to Database as a table, Executing queries
+2025-01-18 18:06:55.882256: Process Complete
+2025-01-18 18:07:02.547604: Preliminaries complete. Initiating ETL process
+2025-01-18 18:07:03.999456: Data extraction complete. Initiating Transformation process
+2025-01-18 18:07:04.007691: Data transformation complete. Initiating Loading process
+2025-01-18 18:07:04.015462: Data saved to CSV file
+2025-01-18 18:07:04.038241: Data loaded to Database as a table, Executing queries
+2025-01-18 18:07:04.038241: Process Complete
+2025-01-18 18:07:10.795288: Preliminaries complete. Initiating ETL process
+2025-01-18 18:07:12.067438: Data extraction complete. Initiating Transformation process
+2025-01-18 18:07:12.074363: Data transformation complete. Initiating Loading process
+2025-01-18 18:07:12.081076: Data saved to CSV file
+2025-01-18 18:07:12.104298: Data loaded to Database as a table, Executing queries
+2025-01-18 18:07:12.104298: Process Complete
+2025-01-18 18:07:12.106322: Process Complete
+2025-01-18 18:07:21.277745: Preliminaries complete. Initiating ETL process
+2025-01-18 18:07:22.627742: Data extraction complete. Initiating Transformation process
+2025-01-18 18:07:22.643650: Data transformation complete. Initiating Loading process
+2025-01-18 18:07:22.656893: Data saved to CSV file
+2025-01-18 18:07:22.691483: Data loaded to Database as a table, Executing queries
+2025-01-18 18:07:22.691483: Process Complete
+2025-01-18 18:07:22.691483: Process Complete
+2025-01-18 18:07:22.695291: Process Complete
+2025-01-18 18:07:45.060092: Preliminaries complete. Initiating ETL process
+2025-01-18 18:07:46.791045: Data extraction complete. Initiating Transformation process
+2025-01-18 18:07:46.808063: Data transformation complete. Initiating Loading process
+2025-01-18 18:07:46.827006: Data saved to CSV file
+2025-01-18 18:07:46.863421: Data loaded to Database as a table, Executing queries
+2025-01-18 18:07:46.863421: Process Complete
+2025-01-18 18:07:46.863421: Process Complete
+2025-01-18 18:07:46.863421: Process Complete
+2025-01-18 18:08:13.998676: Preliminaries complete. Initiating ETL process
+2025-01-18 18:08:16.023279: Data extraction complete. Initiating Transformation process
+2025-01-18 18:08:16.042027: Data transformation complete. Initiating Loading process
+2025-01-18 18:08:16.052314: Data saved to CSV file
+2025-01-18 18:08:16.094438: Data loaded to Database as a table, Executing queries
+2025-01-18 18:08:16.097882: Process Complete
+2025-01-18 18:08:16.097882: Process Complete
+2025-01-18 18:08:16.097882: Process Complete
+2025-01-18 18:16:58.975317: Preliminaries complete. Initiating ETL process
+2025-01-18 18:17:01.151082: Data extraction complete. Initiating Transformation process
+2025-01-18 18:17:01.185010: Data transformation complete. Initiating Loading process
+2025-01-18 18:17:01.200815: Data saved to CSV file
+2025-01-18 18:17:01.226590: Data loaded to Database as a table, Executing queries
+2025-01-18 18:17:01.228621: Process Complete
+2025-01-18 18:17:01.230241: Process Complete
+2025-01-18 18:17:01.232232: Process Complete
+2025-01-18 18:25:00.473067: Preliminaries complete. Initiating ETL process
+2025-01-18 18:25:03.212156: Data extraction complete. Initiating Transformation process
+2025-01-18 18:25:03.225905: Data transformation complete. Initiating Loading process
+2025-01-18 18:25:03.233202: Data saved to CSV file
+2025-01-18 18:25:03.265041: Data loaded to Database as a table, Executing queries
+2025-01-18 18:25:03.269208: Process Complete
+2025-01-18 18:25:03.269208: Process Complete
+2025-01-18 18:25:03.269208: Process Complete
+2025-01-18 18:30:19.188810: Preliminaries complete. Initiating ETL process
+2025-01-18 18:30:22.236541: Data extraction complete. Initiating Transformation process
+2025-01-18 18:30:22.253341: Data transformation complete. Initiating Loading process
+2025-01-18 18:30:22.266086: Data successfully saved to ./output/Largest_banks_data.csv
+2025-01-18 18:30:22.292490: Data successfully loaded to the database table 'Largest_banks'. Executing queries.
+2025-01-18 18:30:22.292490: Query executed successfully. Process complete.
+2025-01-18 18:30:22.292490: Query executed successfully. Process complete.
+2025-01-18 18:30:22.292490: Query executed successfully. Process complete.
+2025-01-18 18:30:44.981517: Preliminaries complete. Initiating ETL process
+2025-01-18 18:30:46.376038: Data extraction complete. Initiating Transformation process
+2025-01-18 18:30:46.392165: Data transformation complete. Initiating Loading process
+2025-01-18 18:30:46.407039: Data successfully saved to ./output/Largest_banks_data.csv
+2025-01-18 18:30:46.452490: Data successfully loaded to the database table 'Largest_banks'. Executing queries.
+2025-01-18 18:30:46.453506: Query executed successfully. Process complete.
+2025-01-18 18:30:46.455527: Query executed successfully. Process complete.
+2025-01-18 18:30:46.455527: Query executed successfully. Process complete.
+2025-01-18 18:30:46.455527: ETL process completed successfully.
+2025-01-18 18:35:18.547235: Preliminaries complete. Initiating ETL process
+2025-01-18 18:35:20.121492: Data extraction complete. Initiating Transformation process
+2025-01-18 18:35:20.135274: Data transformation complete. Initiating Loading process.
+2025-01-18 18:35:20.142091: Data successfully saved to ./output/Largest_banks_data.csv
+2025-01-18 18:35:20.187147: Data successfully loaded to the database table 'Largest_banks'. Executing queries.
+2025-01-18 18:35:20.188801: Query executed successfully. Process complete.
+2025-01-18 18:35:20.191046: Query executed successfully. Process complete.
+2025-01-18 18:35:20.191046: Query executed successfully. Process complete.
+2025-01-18 18:35:20.191046: ETL process completed successfully.
+2025-01-18 18:36:52.582252: Preliminaries complete. Initiating ETL process
+2025-01-18 18:36:54.651153: Data extraction complete. Initiating Transformation process
+2025-01-18 18:36:54.672228: Data transformation complete. Initiating Loading process.
+2025-01-18 18:36:54.678236: Data successfully saved to ./output/Largest_banks_data.csv
+2025-01-18 18:36:54.706294: Data successfully loaded to the database table 'Largest_banks'. Executing queries.
+2025-01-18 18:36:54.707306: Query executed successfully. Process complete.
+2025-01-18 18:36:54.707306: Query executed successfully. Process complete.
+2025-01-18 18:36:54.707306: Query executed successfully. Process complete.
+2025-01-18 18:36:54.717769: ETL process completed successfully.
